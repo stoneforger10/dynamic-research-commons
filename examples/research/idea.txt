@@ -1,0 +1,1 @@
+Research object idea. This object is compatible with a composition containing idea, method and experiment, and introduces the research question.

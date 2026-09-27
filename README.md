@@ -9,3 +9,5 @@ Workflow: `create_space → register_object → connect_objects → resolve_comp
 Security properties include HTTPS-only sources, exact hash commitments, owner-bound writes, immutable commit keys, parent-sequence binding, bounded deadlines, duplicate-edge rejection and fail-closed unavailable or contradictory evidence. No caller-supplied summary, score or confidence controls the result.
 
 Run the GenVM linter and direct tests before deployment. See `LIVE_PROOFS.md` for finalized StudioNet evidence.
+
+The `examples/research/` fixtures are public, content-addressed demo documents used by the live lifecycle.

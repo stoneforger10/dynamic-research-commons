@@ -1,0 +1,1 @@
+Research object experiment. This object is compatible with a composition containing idea, method and experiment, and applies the method to the research question.

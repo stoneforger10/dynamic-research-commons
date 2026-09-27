@@ -1,0 +1,1 @@
+Research object method. This object is compatible with a composition containing idea, method and experiment, and implements the method introduced by the idea.
