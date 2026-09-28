@@ -1,6 +1,6 @@
 # DynamicResearchCommons
 
-> Historical graph-composition experiment; **not a separate Builder resubmission**. Steward feedback found material architectural overlap with DynamicLearningPath. The single replacement mechanism is [CompetencyEvidenceRouter](https://github.com/stoneforger10/competency-evidence-router), which routes learner state from independently fetched and semantically assessed rubric/work evidence rather than owner-controlled graph transitions. The Explorer links below prove only this historical contract.
+> Historical graph-composition experiment; **not a separate Builder resubmission**. Its distinct successor is [ReplicationConvergencePanel](https://github.com/stoneforger10/replication-convergence-panel), an open, source-bound multi-study aggregation panel. The Explorer links below prove only this historical contract, not the successor.
 
 DynamicResearchCommons is a GenLayer Intelligent Contract primitive for composing collaborative research structures. It stores research objects and typed relations, then resolves an immutable composition commit from independently fetched object documents.
 
